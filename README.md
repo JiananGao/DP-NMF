@@ -1,1 +1,1 @@
-# DP-NMF
+## Deep Probabilistic NMF
